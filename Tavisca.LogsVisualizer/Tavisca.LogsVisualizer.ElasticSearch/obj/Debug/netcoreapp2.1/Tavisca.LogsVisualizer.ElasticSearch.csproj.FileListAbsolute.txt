@@ -1,0 +1,12 @@
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\bin\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.deps.json
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\bin\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.dll
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\bin\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.pdb
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\bin\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.Model.dll
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\bin\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.Model.pdb
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\obj\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.csprojAssemblyReference.cache
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\obj\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.csproj.CoreCompileInputs.cache
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\obj\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.AssemblyInfoInputs.cache
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\obj\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.AssemblyInfo.cs
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\obj\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.csproj.CopyComplete
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\obj\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.dll
+C:\Users\asehrawat\source\repos\log-inspector\Tavisca.LogsVisualizer\Tavisca.LogsVisualizer.ElasticSearch\obj\Debug\netcoreapp2.1\Tavisca.LogsVisualizer.ElasticSearch.pdb
